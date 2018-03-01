@@ -1,3 +1,3 @@
-# wikipedia
+# 中文维基百科
 
-[github](https://github.com/henryatman/wikipedia/edit/master/README.md)
+[中文维基百科](https://www.jayxun.com)
